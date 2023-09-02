@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+#driver_path: ./chromedriver.exe
+browser: chrome
+sleep_time: 3
+username: 'Finik'
+password: '70ccea8a70'
+title: 'Title_hw1'
+name: Finik
+email: verliebtin@mail.ru
+content: 'homeworkContent1'
